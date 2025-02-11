@@ -1,0 +1,17 @@
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+.dark-mode li {
+    background: #333;
+    color: white;
+}
+.dark-mode button {
+    background: red;
+}
+
+}
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
